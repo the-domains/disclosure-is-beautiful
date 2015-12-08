@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Disclosure Is Beautiful]]></title>
         <description><![CDATA[Disclosure Is Beautiful]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/disclosure-is-beautiful/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 19:06:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Dec 2015 19:18:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/disclosure-is-beautiful/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scientists discovered the last lake on Mars, which might be preserving ancient life]]></title>
+            <description><![CDATA[<article><h1>Scientists discovered the last lake on Mars, which might be preserving ancient life</h1><p>A group of three scientists says they've found the best place to look for indication of ancient life on Mars - one of the youngest lake-bearing basins ever revealed. However Mars has no liquid water today, the planet was flooded with massive oceans billions of years ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f91caa43b8303787d681349b434c455c8b1e1d2.jpg"></article>]]></description>
+            <link>http://www.physics-astronomy.com/2015/08/scientists-discovered-last-lake-on-mars.html</link>
+            <guid isPermaLink="false">2c0a954b-9623-4d8a-b432-2376081c1159</guid>
+            <pubDate>Tue, 08 Dec 2015 19:18:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LIFE IN MARS? - STRANGE OBJECTS in GOOGLE MARS (by sstaycool)]]></title>
             <description><![CDATA[<article><h1>LIFE IN MARS? - STRANGE OBJECTS in GOOGLE MARS (by sstaycool)</h1><p>STRANGE PLACES in GOOGLE MARS // Objects-Structures-UFOS-LIFE? "LIFE IN MARS?" Strange places in Google Earth from Mars: -Censured Areas,Strange Objects, Light Balls, Plasma Orbits, Structures, Strange Crater.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70a41d7b916e2e6cf696d226d7283ca150e03e6a.jpg"></article>]]></description>
