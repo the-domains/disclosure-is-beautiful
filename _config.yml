@@ -1,6 +1,6 @@
 name: Disclosure Is Beautiful
 favicon: null
-layout_spectrum: 0.3446258900221437
+layout_spectrum: 0.67136
 typography_spectrum: 0.42279048869386315
 title: Disclosure Is Beautiful
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.46857583592645824
   lightness: 0.24074979266151786
   saturation: 0.13457395625300705
-  rhythmicContrast: 0.014683918561786413
+  rhythmicContrast: 0.5
 purpose: []
